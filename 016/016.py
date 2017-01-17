@@ -1,4 +1,4 @@
-sum = 0
+degree_sum = 0
 for i in str(2**1000):
-    sum += int(i)
-print(sum)
+    degree_sum += int(i)
+print(degree_sum)
